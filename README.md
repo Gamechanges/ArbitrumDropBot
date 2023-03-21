@@ -1,4 +1,4 @@
-@ArbitrumDropBot is an open-source Telegram bot that allows for easy tracking and management of Arbitrum airdrops.<br>
+[@ArbitrumDropBot](https://t.me/@ArbitrumDropBot) is an open-source Telegram bot that allows for easy tracking and management of Arbitrum airdrops.<br>
 <br>
 Check Wallets<br>
 After clicking the [Check Wallets] button, you need to submit a list of wallets you want to check. Each wallet should be on a new line.<br>
@@ -16,5 +16,5 @@ After submitting the list, the bot will provide you with the following results f
 Countdown<br>
 After clicking the [Countdown] button, the bot will display the current block number and how many blocks are left until the claim starts.<br>
 <br>
-Contact me: https://t.me/devalexon<br>
+Contact me: [@devalexon](https://t.me/devalexon)<br>
 GitHub: https://github.com/gamechanges/ArbitrumDropBot
