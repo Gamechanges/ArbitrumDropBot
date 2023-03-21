@@ -3,13 +3,13 @@
 Check Wallets
 After clicking the [Check Wallets] button, you need to submit a list of wallets you want to check. Each wallet should be on a new line.<br>
 **Example:**<br>
-code(
+`code()`
 ``0x0000000000000000000000000000000000000000``<br>
 ``0x1111111111111111111111111111111111111111``<br>
 ``0x2222222222222222222222222222222222222222``<br>
 ``..........................................``<br>
 ``0xFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF``<br>
-)
+`code()`
 
 <br>
 After submitting the list, the bot will provide you with the following results for each wallet:
