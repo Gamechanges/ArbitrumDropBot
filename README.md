@@ -16,5 +16,5 @@ After submitting the list, the bot will provide you with the following results f
 Countdown<br>
 After clicking the [Countdown] button, the bot will display the current block number and how many blocks are left until the claim starts.<br>
 <br>
-Contact me: [@devalexon](https://t.me/devalexon) <br>
+Contact me: [@devalexon](https://t.me/@devalexon)<br>
 GitHub: https://github.com/gamechanges/ArbitrumDropBot
